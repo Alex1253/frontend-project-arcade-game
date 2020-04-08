@@ -8,6 +8,7 @@ This Arcade Game is like 'Frogger' where you have to avoid your enemies to achie
    -  Open the Folder
    -  Right Click the index.html and choose a browser
    -  Use the arrow keys to move the character
+   -  Have fun!
 
 # Resources 
    -  Images form Udacity
