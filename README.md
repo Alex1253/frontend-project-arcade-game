@@ -11,7 +11,7 @@ This Arcade Game is like 'Frogger' where you have to avoid your enemies to achie
    -  Have fun!
 
 # Resources 
-   -  Images form Udacity
+   -  Images from Udacity
 
 License
 ----
